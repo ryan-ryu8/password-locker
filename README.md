@@ -22,3 +22,7 @@ $ python 3.8 run.py
 * As a user, I want to have the option of putting in a password that I want to use for the new credential account. 
 * As a user, I also want to view my various account credentials and their passwords in the application.
 * As a user, I want to delete a credentials account that I no longer need in the application.
+
+# License
+* MIT
+* Ryan Munge 
