@@ -7,7 +7,7 @@ class TestInfo(unittest.TestCase):
     def test_init(self):
         self.assertEqual(self.new_info.instagram,"ry_a.n")
         self.assertEqual(self.new_info.E_mail,"rgmunge")
-   // def test_save_info(self):
+    def test_save_info(self):
         '''
         to test if user info is saved
         '''
