@@ -12,7 +12,7 @@ class TestUser(unittest.TestCase):
         self.assertEqual(self.new_user.E_mail,"rgmunge@gmail.com")
 
     def test_save_user(self):
-        self.new_user.save_user()
+        self.new_user.save_user()//
 
     def tearDown(self):
         User.userList = []
