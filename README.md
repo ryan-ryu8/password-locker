@@ -7,3 +7,7 @@
 
 ## Developed by:
  Ryan Munge 
+  
+## Prerequisites
+* python 3.6 - 3.8
+* pip
