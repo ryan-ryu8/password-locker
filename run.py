@@ -12,7 +12,7 @@ def create_credential(instagram,E_mail):
 def save_account(user):
     user.save_user()
 
-//def save_credentials(credentials):
+def save_credentials(credentials):
     credential.save_info()
 
 def display_users():
