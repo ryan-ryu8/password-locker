@@ -6,7 +6,7 @@ class Info:
         self.E_mail = E_mail
     def save_info(self):
         '''
-        Function created to save credentials
+       // Function created to save credentials
         '''
         Info.info_list.append(self)
     def delete_info(self):
