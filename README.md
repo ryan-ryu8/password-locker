@@ -11,3 +11,6 @@
 ## Prerequisites
 * python 3.6 - 3.8
 * pip
+
+## Testing the application
+$ python 3.8 run.py
